@@ -160,7 +160,7 @@ cd academic-web-clipper
 ### Contributing
 We welcome contributions! Please see our areas for improvement below.
 
-## 🚧 Future Improvements
+## 🚧 Potential Improvements (Not a roadmap!)
 
 ### High Priority
 - [ ] **Enhanced MathML Support**
@@ -186,22 +186,18 @@ We welcome contributions! Please see our areas for improvement below.
 - [ ] **Export Options**
   - Multiple output formats (LaTeX, HTML, Plain text)
   - Custom template support
-  - Batch processing capabilities
 
 - [ ] **Integration Features**
   - Direct API integration with note-taking apps
   - Cloud storage sync (Google Drive, Dropbox)
-  - Web-based processing service
 
 ### Low Priority
 - [ ] **UI Improvements**
   - Preview functionality before clipping
   - Custom selector tools
-  - Bulk processing interface
 
 - [ ] **Advanced Features**
   - Image OCR for embedded text
-  - Multi-language support
   - Accessibility improvements
 
 ## 🐛 Known Issues
@@ -222,7 +218,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Thanks to the Obsidian web clipper for inspiration (and frustation-based motivation)
+- Thanks to the Obsidian web clipper for inspiration (and frustration-based motivation)
 - Built with ❤️ for researchers and students worldwide
 
 ---
