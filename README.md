@@ -3,7 +3,8 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.0-orange.svg)](manifest.json)
 
-A powerful web (Firefox, Chrome) extension that extracts academic web content and converts it to clean Markdown format with proper LaTeX equation support. Perfect for researchers, students, and academics who need to clip web content for note-taking apps like Obsidian, Notion, or any Markdown-compatible editor.
+A web (Firefox, Chrome) extension that extracts academic web content and converts it to clean Markdown format with proper LaTeX equation support. 
+Perfect for researchers, students, and academics who need to clip web content for note-taking apps like Obsidian, Notion, or any Markdown-compatible editor.
 
 ## ✨ Features
 
